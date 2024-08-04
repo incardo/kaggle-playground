@@ -1,3 +1,5 @@
 *.tmp
 *.tsv
 *.tfevents
+PS4_7_Binary_Classification_Insurance_Cross_Selling/submissions/*
+PS4_7_Binary_Classification_Insurance_Cross_Selling/data/*
