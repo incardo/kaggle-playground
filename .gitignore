@@ -3,3 +3,4 @@
 *.tfevents
 PS4_7_Binary_Classification_Insurance_Cross_Selling/submissions/*
 PS4_7_Binary_Classification_Insurance_Cross_Selling/data/*
+PS4_8_Binary_Prediction_of_Poisonous_Mushrooms/data/*
